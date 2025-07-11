@@ -4,7 +4,7 @@ from email.mime.multipart import MIMEMultipart
 
 def send_email_alert(subject, body, to_email):
     sender_email = "cheong.eeying@icloud.com"
-    sender_password = "zpje-nrgz-cqnm-xjcy"  # Use your app-specific password
+    sender_password = "je-nrgz-cqnm-xjcy"  # Use your app-specific password
 
     message = MIMEMultipart()
     message["From"] = sender_email
