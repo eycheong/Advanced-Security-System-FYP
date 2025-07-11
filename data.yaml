@@ -1,0 +1,14 @@
+names:
+- car plate
+- face
+- person
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: custom-dataset-3mviu
+  url: https://universe.roboflow.com/fyppp-of5sx/custom-dataset-3mviu/dataset/2
+  version: 2
+  workspace: fyppp-of5sx
+test: C:\Users\Win 11\Custom-Dataset-2\test\images
+train: C:\Users\Win 11\Custom-Dataset-2\train\images
+val: C:\Users\Win 11\Custom-Dataset-2\valid\images
